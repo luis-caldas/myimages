@@ -1,3 +1,3 @@
-# Wallpapers
+# Images
 
-My collection of wallpapers
+My collection of images
