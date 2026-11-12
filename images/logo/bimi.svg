@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 256 256" preserveAspectRatio="xMidYMid meet" baseProfile="tiny-ps" xml:space="preserve"><title>Caldas</title>
+
+
+  <g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:groupmode="layer" inkscape:label="Image" id="g1">
+    <g id="g2" transform="matrix(1.4723253,0,0,1.4723253,-20.704855,33.564683)">
+      <path xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" d="M 95.75,111.6723 91,104.37044 V 79.185219 54 h 10 v 65.71636 z M 74,46.201018 V 44.402036 L 87.5,38.7725 101,33.142965 V 48 H 74 Z M 87.605114,20.661644 101,8.5641451 100.999,28.273437 Z M 106.25,111.6723 111,104.37044 V 79.185219 54 h -10 v 65.71636 z M 128,46.201018 V 44.402036 L 114.5,38.7725 101,33.142965 V 48 h 27 z M 114.39489,20.661644 101,8.5641451 101.001,28.273437 Z" id="path1" sodipodi:nodetypes="cccccccccccccccccc"/>
+      <path id="rect1" d="m 28.951172,54.064453 7.93164,12.140625 H 84.115234 V 54.064453 Z m 12.351562,18.90625 7.931641,12.138672 H 84.115234 V 72.970703 Z M 53.654297,91.875 61.585938,104.01562 H 84.115234 V 91.875 Z M 172.32652,54.064453 164.39488,66.205078 H 117.16246 V 54.064453 Z m -12.35156,18.90625 -7.93164,12.138672 H 117.16246 V 72.970703 Z M 147.6234,91.875 l -7.93164,12.14062 h -22.5293 V 91.875 Z" transform="translate(0.36115188,-0.05642998)"/>
+    </g>
+  </g>
+</svg>
